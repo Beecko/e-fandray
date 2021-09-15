@@ -1,0 +1,19 @@
+body{
+  overflow: hidden;
+}
+
+#menu{
+  width: 15.5%
+}
+
+#listMsg{
+  margin-left: 15%;
+}
+
+#listAmis{
+  height: 640px;
+}
+
+#msg{
+  height: 580px;
+}
